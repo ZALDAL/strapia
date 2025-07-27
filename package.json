@@ -31,9 +31,9 @@
     "typescript": "^5"
   },
   "engines": {
-    "node": ">=18.0.0 <=22.x.x",
-    "npm": ">=6.0.0"
-  },
+   "node": "18.x",
+   "npm": "8.x"
+   },
   "strapi": {
     "uuid": "0da221e3-d33b-43f5-b546-c7e56ebc803e",
     "installId": "28ea52b6313b1e5b0e0da04edd8ccbe3dbe3b61e82341965eef4e0f32d32dc82"
